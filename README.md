@@ -1,5 +1,3 @@
-# netflix-data-analysis-python
-Exploratory Data Analysis (EDA) on Netflix dataset using Python, Pandas, Matplotlib and Seaborn.
 # Netflix Data Analysis (EDA) using Python
 
 ## Project Overview
