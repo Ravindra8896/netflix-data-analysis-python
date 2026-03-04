@@ -50,6 +50,12 @@ indicating strong global and entertainment-focused content strategy.
 - Netflix has significantly increased content after 2016
 - Movies dominate the platform compared to TV shows
 - The United States contributes the largest share of content
+- 
+## Business Conclusion
+
+Netflix's content strategy focuses heavily on movie expansion, 
+with aggressive growth after 2016. The dominance of U.S. and 
+international genres reflects global market targeting.
 
 ## Project Structure
 - dataset → Netflix dataset
