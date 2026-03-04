@@ -28,6 +28,24 @@ Netflix titles dataset containing information about movies and TV shows includin
 ✔ Country-wise content production  
 ✔ Missing data handling  
 
+## Business Questions & Insights
+
+### 1️⃣ What type of content dominates Netflix?
+Analysis shows that Movies significantly outnumber TV Shows on Netflix. 
+This suggests Netflix focuses more on expanding its movie library.
+
+### 2️⃣ When did Netflix grow aggressively?
+Content addition increased rapidly between 2016 and 2019.
+This period reflects Netflix’s global expansion strategy.
+
+### 3️⃣ Which country contributes the most content?
+The United States produces the highest number of titles,
+followed by India and the United Kingdom.
+
+### 4️⃣ What genres are most common?
+International Movies, Drama, and Comedy are among the most frequent genres,
+indicating strong global and entertainment-focused content strategy.
+
 ## Key Insights
 - Netflix has significantly increased content after 2016
 - Movies dominate the platform compared to TV shows
